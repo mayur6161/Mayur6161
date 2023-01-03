@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]([https://stackoverflow.com/users/17766235/mayur]
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)][https://stackoverflow.com/users/17766235/mayur]
 
 I'm
 Full Stack Solution Architect
