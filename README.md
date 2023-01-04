@@ -1,7 +1,6 @@
-### Hi there 👋
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/mayur-gawade-5705011b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-gawade-5705011b7/)](https://www.linkedin.com/in/mayur-gawade-5705011b7/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)][https://stackoverflow.com/users/17766235/mayur]
 
 I'm
