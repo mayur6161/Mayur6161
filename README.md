@@ -27,7 +27,7 @@ Languages and Tools:
         <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="50" height="50" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fexpressjs%2Findex.html&psig=AOvVaw2aMXlyiBKJu4gVfecGphG9&ust=1673028727531000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjDhuqDsfwCFQAAAAAdAAAAABAE" alt="express" width="50" height="50" />
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="express" width="50" height="50" />
     </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />
