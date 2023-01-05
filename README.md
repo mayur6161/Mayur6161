@@ -19,6 +19,7 @@ The crossover between design and programming has always been of interest to me, 
 </div>
 
 <br/>
+<br/>
 
 Languages and Tools: 
 
