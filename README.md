@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mayur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-gawade-5705011b7/)](https://www.linkedin.com/in/mayur-gawade-5705011b7/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mayur-yellow)](https://stackoverflow.com/users/17766235/mayur)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been in programming since high school. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql).
+𝐈'𝐦
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭
+𝐓𝐡𝐞 𝐜𝐫𝐨𝐬𝐬𝐨𝐯𝐞𝐫 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐡𝐚𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐛𝐞𝐞𝐧 𝐨𝐟 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐭𝐨 𝐦𝐞, 𝐈'𝐯𝐞 𝐛𝐞𝐞𝐧 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐬𝐢𝐧𝐜𝐞 𝐡𝐢𝐠𝐡 𝐬𝐜𝐡𝐨𝐨𝐥. 𝐈 𝐡𝐚𝐯𝐞 𝐚 𝐰𝐢𝐝𝐞 𝐫𝐚𝐧𝐠𝐞 𝐨𝐟 𝐬𝐤𝐢𝐥𝐥𝐬 𝐭𝐡𝐚𝐭 𝐢𝐧𝐜𝐥𝐮𝐝𝐞 𝐛𝐚𝐜𝐤-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐮𝐬𝐢𝐧𝐠 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 (𝐍𝐨𝐝𝐞𝐉𝐬, 𝐏𝐲𝐭𝐡𝐨𝐧), 𝐝𝐞𝐬𝐢𝐠𝐧 (𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐜𝐥𝐨𝐬𝐞𝐥𝐲 𝐰𝐢𝐭𝐡 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐫𝐬), 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 (𝐑𝐞𝐚𝐜𝐭, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫𝟗, 𝐑𝐞𝐚𝐜𝐭𝐉𝐬, 𝐇𝐓𝐌𝐋𝟓, 𝐂𝐒𝐒𝟑, 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭, 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞, 𝐔𝐗), 𝐒𝐞𝐫𝐯𝐞𝐫 𝐀𝐝𝐦𝐢𝐧𝐢𝐬𝐭𝐫𝐚𝐭𝐨𝐫(𝐀𝐖𝐒, 𝐆𝐂𝐏, 𝐀𝐳𝐮𝐫𝐞),𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞(𝐌𝐨𝐧𝐠𝐨𝐃𝐁,𝐜𝐚𝐬𝐬𝐞𝐧𝐝𝐫𝐚,𝐌𝐲𝐬𝐪𝐥).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
