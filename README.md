@@ -20,6 +20,18 @@ The crossover between design and programming has always been of interest to me, 
 
 Languages and Tools: 
 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="bootstrap" width="50" height="50" />
+    </a>
+    
+  <a href="https://html.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.mytoworld.com/wp-content/uploads/2020/10/html-nedir-501x381.png" alt="bootstrap" width="50" height="50" />
+    </a>
+   
+ <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="bootstrap" width="50" height="50" />
+    </a>  
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
     </a>
