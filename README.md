@@ -6,7 +6,7 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been in programming since high school. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
@@ -53,7 +53,10 @@ Languages and Tools:
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    
+ <br/>
+    
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -64,6 +67,12 @@ Languages and Tools:
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="nodejs" width="50" height="50" />
+    </a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://i.pinimg.com/474x/ef/63/dc/ef63dcc9d2139447b252361246ee2c15.jpg" alt="nodejs" width="50" height="50" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
