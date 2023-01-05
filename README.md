@@ -27,7 +27,7 @@ Languages and Tools:
         <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="50" height="50" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fexpressjs%2Findex.html&psig=AOvVaw2aMXlyiBKJu4gVfecGphG9&ust=1673028727531000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjDhuqDsfwCFQAAAAAdAAAAABAE" alt="express" width="50" height="50" />
     </a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />
@@ -44,11 +44,8 @@ Languages and Tools:
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" />
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="50" height="50" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
