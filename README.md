@@ -18,6 +18,8 @@ The crossover between design and programming has always been of interest to me, 
   </a>
 </div>
 
+<br/>
+
 Languages and Tools: 
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
