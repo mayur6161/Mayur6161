@@ -64,7 +64,7 @@ Languages and Tools:
  <br/> 
     
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
+        <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="50" height="50" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
@@ -84,7 +84,12 @@ Languages and Tools:
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2018/09/firebase_logo_shot.png" alt="python" width="50" height="50" />
+    </a>    
+    
+    
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
