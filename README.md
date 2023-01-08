@@ -15,12 +15,12 @@
 
 𝐈 𝐡𝐚𝐯𝐞 𝐰𝐨𝐫𝐤𝐞𝐝 𝐨𝐧 𝐢𝐨𝐬 𝐚𝐩𝐩𝐬 𝐚𝐧𝐝 𝐚𝐧𝐝𝐫𝐨𝐢𝐝 𝐚𝐩𝐩𝐬 𝐮𝐬𝐢𝐧𝐠 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐚𝐧𝐝 𝐃𝐚𝐫𝐭. 𝐔𝐬𝐢𝐧𝐠 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐢 𝐡𝐚𝐯𝐞 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐜𝐫𝐨𝐬𝐬-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mayur6161/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mayur6161&column=7"/>
   </a>
 </div>
 
