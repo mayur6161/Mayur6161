@@ -109,13 +109,26 @@ Here are some ideas to get you started:
 
 -->
 
-
+  # E_Shop
 <div class="mySlides fade">
   <img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/1.jpg?alt=media&token=7d51a67e-316b-45be-b141-4f2ec8818dd7" style="width:100%">
 </div>
   
   # flipkart_clone
 ![flipkart image](https://user-images.githubusercontent.com/64288579/213879866-385aea09-04a6-4580-935f-8a008104f912.PNG)
+  
+  # ClearMind Music App
+
+<img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/clearmind%2Fall%20details.jpg?alt=media&token=27572fda-dea3-4995-a234-5af5bfa18bb6" alt="image 1">
+  
+  # amazon-clone
+
+<img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/github%2Famazon%20image.PNG?alt=media&token=56a2a9e6-a7be-499e-8522-4056a794ad21" alt="image 1">
+  
+ 
+ # geo_location
+
+<img src="https://raw.githubusercontent.com/mayur6161/geo_location/master/geo%20location.PNG">
 
 
   
