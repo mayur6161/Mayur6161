@@ -113,14 +113,10 @@ Here are some ideas to get you started:
 <div class="mySlides fade">
   <img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/1.jpg?alt=media&token=7d51a67e-316b-45be-b141-4f2ec8818dd7" style="width:100%">
 </div>
+  
+  # flipkart_clone
+![flipkart image](https://user-images.githubusercontent.com/64288579/213879866-385aea09-04a6-4580-935f-8a008104f912.PNG)
 
-<div class="mySlides fade">
-  <img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/2.jpg?alt=media&token=7fee31c7-8184-451e-956b-b9db2826d454" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <img src="https://firebasestorage.googleapis.com/v0/b/resume-images.appspot.com/o/3.jpg?alt=media&token=be0bafec-8b20-420d-bea1-1daa8ab8005f" style="width:100%">
-</div>
 
   
   
