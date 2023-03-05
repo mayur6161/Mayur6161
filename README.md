@@ -116,6 +116,10 @@ Here are some ideas to get you started:
   
   # flipkart_clone
 ![flipkart image](https://user-images.githubusercontent.com/64288579/213879866-385aea09-04a6-4580-935f-8a008104f912.PNG)
+
+# MG_Shop
+
+![MG SHOP IMAGE](https://github.com/mayur6161/MG_Shop/blob/master/src/assets/products/mgshop.PNG)
   
   # ClearMind Music App
 
